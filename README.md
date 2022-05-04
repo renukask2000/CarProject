@@ -1,37 +1,37 @@
 # Car-Sales-System
 
- .The purpose of the project is to build an application program to reduce the manual work for managing Car Models, Car Sales, Car Details, Car Search etc.
+ The purpose of the project is to build an application program to reduce the manual work for managing Car Models, Car Sales, Car Details, Car Search etc.
 
 # Technologies used:
 
-   .Java
+   Java
   
-   .MYSQL
+   MYSQL
   
-   .JDBC
+   JDBC
   
-   .Maven
+   Maven
   
-   .JUnit
+   JUnit
   
 # Developed a console based application, which has admin module
 
 # Admin functionalities
 
-  .As an Admin, you can Add/Delete/Update a car details.
+  As an Admin, you can Add/Delete/Update a car details.
  
 # Dependencies 
 
-  .Maven
+  Maven
  
-  .JDBC Driver
+  JDBC Driver
  
-  .JUnit
+  JUnit
  
 # Tools used
 
-  .Eclipse
+  Eclipse
  
-  .JDK 1.8
+  JDK 1.8
  
-  .MYSQL
+  MYSQL
